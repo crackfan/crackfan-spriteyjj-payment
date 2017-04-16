@@ -5,7 +5,6 @@
     "keywords": ["payment","spriteyjj","crackfan"],
     "homepage": "https://github.com/crackfan/spriteyjj-payment",
     "license": "MIT",
-    "minimum-stability": "0.1.0",
     "authors": [
         {
             "name": "crackfan",
